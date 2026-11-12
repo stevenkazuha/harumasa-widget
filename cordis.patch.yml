@@ -1,0 +1,3 @@
+- insert:
+    - id: harumasa-widget
+      name: '@local/harumasa-widget'
